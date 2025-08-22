@@ -11,7 +11,7 @@ Analysis of Danny’s Diner customer data using SQL. Explore sales, menu, and me
   - `Sales.csv` → Customer orders  
 
 - **Scripts**
-  - `Case_Study_Answer` → Contains all question, SQL queries and answers to the case study questions  
+  - `Case_Study_Answer.md` → Contains all question, SQL queries and answers to the case study questions  
   - `README.md` → Information about the project, process, and objectives  
 
 ---
