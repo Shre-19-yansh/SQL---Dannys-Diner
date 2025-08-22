@@ -6,7 +6,7 @@ Analysis of Danny’s Diner customer data using SQL. Explore sales, menu, and me
 
 ## 📂 Files in This Repository
 - **Data Files**
-  - `Members.csv` → Customer membership information  
+  - `Member.csv` → Customer membership information  
   - `Menu.csv` → Menu details  
   - `Sales.csv` → Customer orders  
 
